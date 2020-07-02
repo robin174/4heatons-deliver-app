@@ -25,7 +25,7 @@ export const HeroHeader = ({ search }) => {
   return (
     <StyledHeroHeader role="banner" style={{ backgroundImage: `url(/images/Header@2x.png)` }}>
       <Container>
-        <img src={logoHero} alt="4 Heatons Deliver Logo"/>;
+        <h1><img src={logoHero} alt="4 Heatons Deliver Logo"/></h1>;
         <p>Local restaurants, suppliers, shops &amp; services that deliver contact-free to your door.</p>
         <p>Search for what you'd like delivered e.g. bread, coffee, hand sanitiser, beer, prescriptions, yeast, toilet paper:</p>
         <LocationSearch />
@@ -55,11 +55,9 @@ const StyledHeroHeader = styled.header`
     color:var(--text-med-white);
     //max-width:35ch;
   }
-
   p + p {
-  margin-top:0.2rem;
-}
-
+    margin-top:0.2rem;
+  }
 
   @media(min-width:48rem) {
     padding:var(--spacing-xxl) 0;
