@@ -23,7 +23,7 @@ export const Nav = () => {
 export const HeroHeader = ({ search }) => {
   const logoHero = '/images/logo--hero-4heatonsdeliver.png';
   return (
-    <StyledHeroHeader role="banner" style={{ backgroundImage: `url(/images/Header@2x.png)` }}>
+    <StyledHeroHeader>
       <Container>
         <h1><img src={logoHero} alt="4 Heatons Deliver Logo"/></h1>;
         <p>Local restaurants, suppliers, shops &amp; services that deliver contact-free to your door.</p>
