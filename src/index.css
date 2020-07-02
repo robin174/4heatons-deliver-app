@@ -7,8 +7,8 @@
   --bg:#f0f0f0;
   --base:#0B132B;  
   --base-light:rgba(11, 19, 43, 0.05);
-  --primary:#B2B2B2; /* Change me to a primary color to match your brand */
-  --secondary:#D9D9D9; /* Change me to a secondary color to match your brand */
+  --primary:#82DDD2;
+  --secondary:#9a82dd;
   
   --text-high:var(--base);
   --text-med:rgba(11, 19, 43, 0.8);

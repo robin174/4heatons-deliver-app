@@ -71,13 +71,15 @@ const StyledInputWrap = styled.div`
   max-width:420px;  
   margin:var(--spacing-sm) 0;
   color:#d8d8d8;
-
+  margin-left: auto;
+  margin-right: auto;
   svg {
     position:absolute;
     top:1rem;
     left:1rem;
   }
   input {
+
     display:block;
     width:100%;
     padding:var(--spacing-xs);

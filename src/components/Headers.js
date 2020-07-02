@@ -10,21 +10,22 @@ export const Nav = () => {
       <Button path="https://airtable.com/shrOPcOJGWbf0Ua5c">
         <span role="img" aria-label="List">📍</span>&nbsp;List your business
       </Button>
-       <Button path="mailto:me@fourtheheatons@gmail.com">
+      <Button path="mailto:fourtheheatons@gmail.com">
        <span role="img" aria-label="Email">📧</span>&nbsp;&nbsp;Email us
-       </Button>
-       <Button path="https://www.facebook.com/mytowndelivers">
+      </Button>
+      <Button path="https://www.facebook.com/groups/3059248397526431/">
        <span role="img" aria-label="Facebook">🙌</span>&nbsp;&nbsp;Follow on Facebook
-       </Button>
+      </Button>
     </StyledNav>
   )
 }
 
 export const HeroHeader = ({ search }) => {
+  const logoHero = '/images/logo--hero-4heatonsdeliver.png';
   return (
     <StyledHeroHeader role="banner" style={{ backgroundImage: `url(/images/Header@2x.png)` }}>
       <Container>
-        <h1>4 Heatons Deliver</h1>
+        <img src={logoHero} alt="4 Heatons Deliver Logo"/>;
         <p>Local restaurants, suppliers, shops &amp; services that deliver contact-free to your door.</p>
         <p>Search for what you'd like delivered e.g. bread, coffee, hand sanitiser, beer, prescriptions, yeast, toilet paper:</p>
         <LocationSearch />
@@ -42,6 +43,10 @@ const StyledHeroHeader = styled.header`
   background-position:top;
   text-align: center;
 
+  img {
+      margin: 0 auto;
+      margin-bottom: 1rem;
+  }
   h1 {
     color:var(--text-high-white);
     margin:0 0 1rem 0;
@@ -50,6 +55,11 @@ const StyledHeroHeader = styled.header`
     color:var(--text-med-white);
     //max-width:35ch;
   }
+
+  p + p {
+  margin-top:0.2rem;
+}
+
 
   @media(min-width:48rem) {
     padding:var(--spacing-xxl) 0;
