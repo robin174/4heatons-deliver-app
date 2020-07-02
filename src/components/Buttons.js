@@ -61,7 +61,7 @@ const StyledButtonPrimary = styled.button`
   }
 
   &:hover {
-    background-color:${darken(0.2, '#FF5630')};
+    background-color:${darken(0.2, '#82DDD2')};
     transition:all .2s ease;
   }
 `
