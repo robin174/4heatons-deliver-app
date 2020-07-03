@@ -29,7 +29,7 @@ const App = () => {
       <Container style={{ paddingBottom: '6rem' }}>
         <CalloutCard id="stay-informed">
           <h2>Stay informed</h2>
-          <p>Sign up for occasional emails from My Town Delivers.</p>
+          <p>Sign up for occasional emails from 4 Heatons Deliver.</p>
           <MailchimpSubscribe
             url={url}
             render={({ subscribe, status, message }) => (
