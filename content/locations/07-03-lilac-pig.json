@@ -1,0 +1,22 @@
+{
+  "safetyTips": "Contactless doorstep delivery ",
+  "name": "Lilac Pig",
+  "phone": "07545073938",
+  "address": "hello@lilacpig.com",
+  "cover": "https://res.cloudinary.com/dai8hrqlj/image/upload/c_limit,f_auto,q_80,w_500/v1593811288/5E771C96-9FDF-44C7-BD8F-9148F59E2368_ns17zo.jpg",
+  "tags": [
+    "Cakes",
+    "Brownies"
+  ],
+  "website": "www.lilacpig.com",
+  "deliveryHours": [
+    "Monday 12pm",
+    "Tuesday 12pm",
+    "Wednesday 12pm",
+    "Thursday 12pm",
+    "Friday 12pm",
+    "Saturday 12pm"
+  ],
+  "email": "hello@lilacpig.com",
+  "description": "Brownies, blondies, cupcakes & celebration cakes"
+}
