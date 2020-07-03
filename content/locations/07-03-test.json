@@ -3,9 +3,12 @@
   "name": "Test",
   "description": "Test test test and a bit more testing.",
   "address": "Test, Manchester",
-  "website": "www.test.com",
+  "website": "https://www.test.com",
   "deliveryHours": [
     "Monday 10:00 - 14:00"
   ],
-  "safetyTips": "Testing"
+  "safetyTips": "Testing",
+  "tags": [
+    "Tag"
+  ]
 }
