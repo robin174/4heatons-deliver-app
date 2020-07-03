@@ -1,0 +1,16 @@
+{
+  "safetyTips": "aaaa",
+  "name": "Oliver Sussams",
+  "phone": "aaa",
+  "address": "83b Claude road",
+  "cover": "https://res.cloudinary.com/dai8hrqlj/image/upload/c_limit,f_auto,q_80,w_500/v1593539349/sample.jpg",
+  "tags": [
+    "Coffee",
+    "Food"
+  ],
+  "deliveryHours": [
+    "2000"
+  ],
+  "email": "",
+  "description": "Test"
+}
