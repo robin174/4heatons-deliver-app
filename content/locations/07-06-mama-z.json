@@ -1,0 +1,17 @@
+{
+  "safetyTips": "Contact free delivery ",
+  "name": "Mama Z",
+  "address": "Manchester",
+  "cover": "https://res.cloudinary.com/dai8hrqlj/image/upload/c_limit,f_auto,q_80,w_500/v1594066584/Screenshot_2020-07-06_at_21.14.21_h0amwd.png",
+  "tags": [
+    "catering",
+    "food",
+    "filipino"
+  ],
+  "website": "https://www.cookingwithmamaz.com",
+  "deliveryHours": [
+    "Monday - Sunday"
+  ],
+  "email": "cookingwithmamaz@gmail.com",
+  "description": "Bringing Manila to MCR, Filipino catering, "
+}
