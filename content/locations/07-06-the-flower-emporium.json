@@ -1,0 +1,12 @@
+{
+  "name": "The Flower Emporium",
+  "description": "Heaton Moor's original combined florist & gift shop",
+  "address": "9 Moorside Road, Heaton Moor, Stockport, SK4 4D",
+  "website": "https://www.theflower-emporium.co.uk/",
+  "phone": "0161 442 1566",
+  "deliveryHours": [
+    "Mon – Friday 9am – 5.30pm, Saturday 9 – 4.30pm"
+  ],
+  "safetyTips": "Contact free delivery",
+  "cover": "https://res.cloudinary.com/dai8hrqlj/image/upload/c_limit,f_auto,q_80,w_500/v1594067621/Screenshot_2020-07-06_at_21.30.10_lztinl.png"
+}
