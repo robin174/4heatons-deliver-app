@@ -1,0 +1,24 @@
+{
+  "safetyTips": "Online delivery - Session posted every Friday and available all week to access any time!",
+  "name": "Baby Signing Club",
+  "address": "The Heatons Centre",
+  "cover": "https://res.cloudinary.com/dai8hrqlj/image/upload/c_limit,f_auto,q_80,w_500/v1593880054/345BBB0C-3302-4934-9B45-3219407EBFC1_ogy62v.jpg",
+  "tags": [
+    "Gift",
+    "Baby",
+    "Communication",
+    "Child Development"
+  ],
+  "website": "www.bookwhen.com/babysigningclub",
+  "deliveryHours": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Sunday"
+  ],
+  "email": "https://www.facebook.com/babysigningclub/",
+  "description": "A baby/toddler group for parents wanting to learn more about their child’s speech and language development! Fun weekly sessions learning signs and songs about every day topics with your little one! "
+}

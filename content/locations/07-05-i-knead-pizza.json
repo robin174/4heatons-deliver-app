@@ -1,0 +1,18 @@
+{
+  "safetyTips": "Contact free delivery",
+  "name": "I Knead Pizza ",
+  "phone": "0161 222 9890",
+  "address": "52 Gorton Road Reddish Stockport SK5 6AH",
+  "cover": "https://res.cloudinary.com/dai8hrqlj/image/upload/c_limit,f_auto,q_80,w_500/v1593979569/Screenshot_2020-07-05_at_21.05.51_yk8sob.png",
+  "tags": [
+    "takeaway",
+    "food",
+    "pizza"
+  ],
+  "website": "https://www.ikneadpizza.co.uk/",
+  "deliveryHours": [
+    "Wednesday-Sunday 5pm Onwards"
+  ],
+  "email": "info@ikneadpizza.co.uk",
+  "description": "We do Street Food events, Pop-up Cinemas, Artisan Markets, Festivals. We are also available for hire for private occasions."
+}
