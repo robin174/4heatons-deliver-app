@@ -1,0 +1,18 @@
+{
+  "safetyTips": "Contact free delivery ",
+  "name": "Isca Wines",
+  "address": "825 Stockport Road  Manchester  M19 3PN",
+  "cover": "https://res.cloudinary.com/dai8hrqlj/image/upload/c_limit,f_auto,q_80,w_500/v1594038322/Screenshot_2020-07-06_at_13.21.56_fzdybe.png",
+  "tags": [
+    "wine bar",
+    "wine",
+    "takeaway",
+    "organic"
+  ],
+  "website": "https://www.iscawines.com/",
+  "deliveryHours": [
+    "OPEN Thursday-Friday-Saturday 11am-3pm Local deliveries continuing every Thurday"
+  ],
+  "email": "info@iscawines.com",
+  "description": "Natural wines, organic food and more "
+}
