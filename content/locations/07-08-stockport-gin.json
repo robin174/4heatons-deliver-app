@@ -3,7 +3,11 @@
   "name": "Stockport Gin",
   "address": "Compstall, Stockport",
   "cover": "https://res.cloudinary.com/dai8hrqlj/image/upload/c_limit,f_auto,q_80,w_500/v1594228988/1-all-10_xs2qjj.jpg",
-  "tags": [],
+  "tags": [
+    "gifts",
+    "gin",
+    "alcohol"
+  ],
   "website": "https://www.stockport-gin.com/",
   "deliveryHours": [
     "Monday, Tuesday, Wednesday, Thursday, Friday"
