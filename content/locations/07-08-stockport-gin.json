@@ -1,0 +1,17 @@
+{
+  "safetyTips": "Our courier has all of the necessary delivery procedures in place to ensure a swift and safe delivery.",
+  "name": "Stockport Gin",
+  "address": "Compstall, Stockport",
+  "cover": "https://res.cloudinary.com/dai8hrqlj/image/upload/c_limit,f_auto,q_80,w_500/v1594228988/1-all-10_xs2qjj.jpg",
+  "tags": [
+    "Gifts",
+    "Spirits",
+    "Alcohol"
+  ],
+  "website": "https://www.stockport-gin.com/",
+  "deliveryHours": [
+    "Monday, Tuesday, Wednesday, Thursday, Friday"
+  ],
+  "email": "info@stockport-gin.com",
+  "description": "Locally produced small batch craft gins made at our home distillery in Stockport. Currrently offering free delivery on orders over £50 via our website."
+}
