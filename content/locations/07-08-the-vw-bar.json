@@ -5,11 +5,14 @@
   "address": "Norris Avenue",
   "cover": "https://res.cloudinary.com/dai8hrqlj/image/upload/c_limit,f_auto,q_80,w_500/v1594229387/95743131_10163874358295487_2584394405980930048_n_anbxum.jpg",
   "tags": [
-    "Coffee, Cakes, Tea, Gluten-free"
+    "Coffee",
+    "Cakes",
+    "Tea",
+    "Gluten-free"
   ],
-  "website": "https://www.facebook.com/thevwbar/",
+  "website": "www.facebook.com/thevwbar",
   "deliveryHours": [
-    "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday 10:00 - 20:00"
+    "Monday - Sunday 10:00 - 20:00"
   ],
   "email": "vwbar@hotmail.com",
   "description": "Freshly ground flavoured latte/cappuccino, frappe, cakes & goodies. Order via 07792 774703"
