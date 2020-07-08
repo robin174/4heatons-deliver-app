@@ -1,14 +1,14 @@
 {
   "safetyTips": "Our courier has all of the necessary delivery procedures in place to ensure a swift and safe delivery.",
   "name": "Stockport Gin",
-  "address": "Compstall, Stockport",
+  "address": "Stockport",
   "cover": "https://res.cloudinary.com/dai8hrqlj/image/upload/c_limit,f_auto,q_80,w_500/v1594228988/1-all-10_xs2qjj.jpg",
   "tags": [
     "gifts",
     "gin",
     "alcohol"
   ],
-  "website": "https://www.stockport-gin.com/",
+  "website": "www.stockport-gin.com",
   "deliveryHours": [
     "Monday, Tuesday, Wednesday, Thursday, Friday"
   ],
