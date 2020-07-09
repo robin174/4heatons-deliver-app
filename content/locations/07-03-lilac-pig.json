@@ -9,14 +9,7 @@
     "Brownies"
   ],
   "website": "https://www.lilacpig.com",
-  "deliveryHours": [
-    "Monday 12pm",
-    "Tuesday 12pm",
-    "Wednesday 12pm",
-    "Thursday 12pm",
-    "Friday 12pm",
-    "Saturday 12pm"
-  ],
+  "deliveryHours": [],
   "email": "hello@lilacpig.com",
   "description": "Brownies, blondies, cupcakes & celebration cakes"
 }
