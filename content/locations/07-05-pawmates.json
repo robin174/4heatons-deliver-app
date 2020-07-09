@@ -9,7 +9,13 @@
   ],
   "website": "https://pawmates.co.uk/",
   "deliveryHours": [
-    "Monday - Sunday"
+    "Monday ",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday ",
+    "Saturday",
+    "Sunday"
   ],
   "email": "joanne@pawmates.co.uk",
   "description": "Dog walking and Pet Services "
