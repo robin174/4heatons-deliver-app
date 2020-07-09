@@ -8,6 +8,13 @@
     "drinks"
   ],
   "website": "https://store.steepsoda.co/",
+  "deliveryHours": [
+    "Monday 9am–5pm",
+    "Tuesday 9am–5pm",
+    "Wednesday 9am–5pm",
+    "Thursday 9am–5pm",
+    "Friday 9am–5pm"
+  ],
   "email": "steepsodaco@gmail.com",
   "description": "Handmade, small batch, craft Soda."
 }
