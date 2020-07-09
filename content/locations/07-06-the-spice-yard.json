@@ -12,7 +12,12 @@
   ],
   "website": "https://thespiceyard.com/",
   "deliveryHours": [
-    "Monday - Saturday"
+    "Monday ",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday "
   ],
   "email": "hello@thespiceyard.com",
   "description": "We make freshly roasted, ground and blended spices in recyclable packaging, supported by online recipes. As of April 2020 we also offer chilled food deliveries of authentic Indian (Gujarati inspired) meals. The food menu is 70% vegan/vegetarian with dishes that are lighter and fresher than your average Indian takeout. If you are a dahl lover head over to our website where you can order and see the weekly special!"
