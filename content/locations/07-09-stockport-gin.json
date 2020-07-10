@@ -1,7 +1,7 @@
 {
-  "safetyTips": "Our courier has all of the necessary delivery procedures in place to ensure a swift and safe delivery.",
+  "safetyTips": "Our courier has all of the necessary delivery procedures in place to ensure a swift and safe delivery. Order online via our website.",
   "name": "Stockport Gin",
-  "phone": "Order online via our website",
+  "phone": "",
   "address": "Compstall, Stockport",
   "cover": "https://res.cloudinary.com/dai8hrqlj/image/upload/c_limit,f_auto,q_80,w_500/v1594228988/1-all-10_xs2qjj.jpg",
   "tags": [
@@ -11,11 +11,11 @@
   ],
   "website": "https://www.stockport-gin.com/",
   "deliveryHours": [
-    "Monday - 8am - 8pm",
-    "Tuesday - 8am - 8pm",
-    "Wednesday - 8am - 8pm",
-    "Thursday - 8am - 8pm",
-    "Friday - 8am - 8pm"
+    "Monday 8am - 8pm",
+    "Tuesday 8am - 8pm",
+    "Wednesday 8am - 8pm",
+    "Thursday 8am - 8pm",
+    "Friday 8am - 8pm"
   ],
   "email": "info@stockport-gin.com",
   "description": "Locally produced small batch craft gins made at our home distillery in Stockport. Currently offering free delivery on orders over £50 via our website."
