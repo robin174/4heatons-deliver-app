@@ -1,0 +1,23 @@
+{
+  "safetyTips": "Contactless payment",
+  "name": "Bernie's ",
+  "phone": "0161 442 7840",
+  "address": "3 Hawthorn Grove SK4 4HZ",
+  "cover": "https://res.cloudinary.com/dai8hrqlj/image/upload/c_limit,f_auto,q_80,w_500/v1594391345/49DFDCE4-F89D-4113-8F40-55190CB6AF3D_umfszr.jpg",
+  "tags": [
+    "food",
+    "wine",
+    "cheese",
+    "bread",
+    "cakes",
+    "organic",
+    "homewares"
+  ],
+  "website": "www.provisionsgrocery.co.uk",
+  "deliveryHours": [
+    "Tuesday 12-6pm",
+    "Wednesday 12-6pm"
+  ],
+  "email": "hello@provisionsgrocery.co.uk",
+  "description": "A responsibly sourced grocery store. "
+}
