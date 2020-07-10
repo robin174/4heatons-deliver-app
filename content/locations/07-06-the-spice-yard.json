@@ -1,5 +1,5 @@
 {
-  "safetyTips": "Contactless doorstep delivery from a food registered kitchen and hygiene levels 1,2 and 3 in place",
+  "safetyTips": "Contactless doorstep delivery from a food registered kitchen and hygiene levels 1,2 and 3 in place.",
   "name": "The Spice Yard",
   "address": "Heaton Moor, Stockport, Cheshire",
   "cover": "https://res.cloudinary.com/dai8hrqlj/image/upload/c_limit,f_auto,q_80,w_500/v1594035955/SF_CLICKS_MORTAR_tins_1_jnpyvw.jpg",
@@ -12,12 +12,12 @@
   ],
   "website": "https://thespiceyard.com/",
   "deliveryHours": [
-    "Monday ",
+    "Monday",
     "Tuesday",
     "Wednesday",
     "Thursday",
     "Friday",
-    "Saturday "
+    "Saturday"
   ],
   "email": "hello@thespiceyard.com",
   "description": "We make freshly roasted, ground and blended spices in recyclable packaging, supported by online recipes. As of April 2020 we also offer chilled food deliveries of authentic Indian (Gujarati inspired) meals. The food menu is 70% vegan/vegetarian with dishes that are lighter and fresher than your average Indian takeout. If you are a dahl lover head over to our website where you can order and see the weekly special!"
