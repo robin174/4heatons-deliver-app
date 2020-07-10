@@ -2,7 +2,7 @@
   "safetyTips": "Distanced seating, booking only. ",
   "name": "Feed General Store",
   "phone": "+44 161 312 4148",
-  "address": "393 Manchester Road Heaton Chapel, Stockport SK4 5BY England",
+  "address": "393 Manchester Road Heaton Chapel, Stockport SK4 5BY",
   "cover": "https://res.cloudinary.com/dai8hrqlj/image/upload/c_limit,f_auto,q_80,w_500/v1594037838/Screenshot_2020-07-06_at_13.16.21_xpnrgd.png",
   "tags": [
     "cafe",
@@ -14,12 +14,12 @@
   ],
   "website": "https://www.instagram.com/feedgeneralstore/",
   "deliveryHours": [
-    "Tuesday 9am-3pm",
-    "Wednesday 9am-3pm",
-    "Thursday 9am-3pm",
-    "Friday 9am-3pm",
-    "Saturday 9am-3pm",
-    "Sunday 9am-3pm"
+    "Tuesday 9am - 3pm",
+    "Wednesday 9am - 3pm",
+    "Thursday 9am - 3pm",
+    "Friday 9am - 3pm",
+    "Saturday 9am - 3pm",
+    "Sunday 9am - 3pm"
   ],
   "description": "Brunch spot / coffee shop / bakery / seasonal menu & organic grocery store"
 }
