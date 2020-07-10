@@ -26,7 +26,7 @@ export const LocationSearch = () => {
 
 export const LocationList = () => {
   const { locations, getLocations } = useData();
-  const [locationLimit, setLocationLimit] = useState(6);
+  const [locationLimit, setLocationLimit] = useState(9);
 
   // Grabs JSON data from provider
   useEffect(() => {
