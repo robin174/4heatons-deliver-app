@@ -1,0 +1,21 @@
+{
+  "safetyTips": "Orders are picked & packed by Oddie only and we will not be using any other staff members throughout the packing process for everyone’s safety. Only 2 people will allowed in the bar for collection at any one time, please respect this rule. When orders are placed please provide all your details including full name, address & mobile number.",
+  "name": "Nordie ",
+  "address": "1044 Stockport Rd, Manchester M19 3WX",
+  "cover": "https://res.cloudinary.com/dai8hrqlj/image/upload/c_limit,f_auto,q_80,w_500/v1594047791/Screenshot_2020-07-06_at_16.02.16_abhojt.png",
+  "tags": [
+    "wine",
+    "craft beer",
+    "wine bar",
+    "takeaway",
+    "cakes"
+  ],
+  "website": "https://www.nordie.co.uk/",
+  "deliveryHours": [
+    "Wednesday 4 - 6pm",
+    "Friday 4 - 6pm",
+    "Saturday 11am - 3pm"
+  ],
+  "email": "",
+  "description": "Neighbourhood bar. Independent beer, natural wine, cocktails, spirits & fresh cakes."
+}

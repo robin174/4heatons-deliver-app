@@ -1,0 +1,39 @@
+{
+  "safetyTips": "We are following Government guidelines to ensure staff, customers, shop and products are clean and sanitised. Contactless collection can be made from the rear of the premises via The Heaton pub car park.",
+  "name": "The Good Life",
+  "address": "472 Didsbury Road, Heaton Mersey SK4 3BS",
+  "cover": "https://res.cloudinary.com/dai8hrqlj/image/upload/c_limit,f_auto,q_80,w_500/v1594054260/The_Good_Life_Main_Logo_tb1qug.jpg",
+  "tags": [
+    "Food",
+    "Cheese",
+    "Dairy-free",
+    "Eggs",
+    "Ice Cream",
+    "Beer",
+    "Cider",
+    "Coffee",
+    "Tea",
+    "Wine",
+    "Bread",
+    "Flour",
+    "Gluten-free",
+    "Gifts",
+    "Zero-waste",
+    "Organic",
+    "Fruit",
+    "Vegan",
+    "Veg Box"
+  ],
+  "website": "https://www.thegoodlifeheatons.com",
+  "deliveryHours": [
+    "Monday 10:00 - 17:00",
+    "Tuesday 10:00 - 17:00",
+    "Wednesday 10:00 - 17:00",
+    "Thursday 10:00 - 17:00",
+    "Friday 10:00 - 17:00",
+    "Saturday 10:00 - 17:00",
+    "Sunday 10:00 - 17:00"
+  ],
+  "email": "ms.shelley.brown@gmail.com",
+  "description": "Zero Waste mini market. Free Delivery over £25 to SK4."
+}
