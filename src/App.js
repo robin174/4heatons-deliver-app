@@ -15,9 +15,7 @@ const LocationList = React.lazy(() => import('./components/Locations').then(modu
 const Modal = React.lazy(() => import('./components/Modal').then(module => ({ default: module.Modal })));
 
 // Mailchimp
-const url = 'https://gmail.us10.list-manage.com/subscribe/post?u=a0065b2712b7e55873bc22a4b&amp;id=eb3b219f3a';
-
-
+const url = 'https://gmail.us10.list-manage.com/subscribe/post?u=a0065b2712b7e55873bc22a4b&amp;id=eb3b219f3a'
 
 const App = () => {
   return (

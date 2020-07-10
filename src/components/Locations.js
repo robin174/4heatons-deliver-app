@@ -26,7 +26,7 @@ export const LocationSearch = () => {
 
 export const LocationList = () => {
   const { locations, getLocations } = useData();
-  const [locationLimit, setLocationLimit] = useState(9);
+  const [locationLimit, setLocationLimit] = useState(6);
 
   // Grabs JSON data from provider
   useEffect(() => {
@@ -90,4 +90,4 @@ const StyledInputWrap = styled.div`
     font-family:var(--font-stack);
     color:var(--text-med);
   }
-`
+`;
