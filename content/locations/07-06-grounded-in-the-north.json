@@ -1,21 +1,21 @@
 {
   "safetyTips": "Contact free collection",
   "name": "Grounded in the North",
-  "phone": "07814 686939",
+  "phone": "07814686939",
   "address": "79 Broadstone Rd, SK5 7AS",
   "cover": "https://res.cloudinary.com/dai8hrqlj/image/upload/c_limit,f_auto,q_80,w_500/v1594067995/Screenshot_2020-07-06_at_21.39.38_wujs3j.png",
   "tags": [
-    "coffee shop",
-    "cakes",
-    "takeaway "
+    "Coffee shop",
+    "Cakes",
+    "Takeaway "
   ],
   "website": "https://www.groundedinthenorth.com/shop",
   "deliveryHours": [
-    "Wednesday 10-3",
-    "Thursday 10-3",
-    "Friday 10-3",
-    "Saturday 10-3"
+    "Wednesday 10 - 3",
+    "Thursday 10 - 3",
+    "Friday 10 - 3",
+    "Saturday 10 - 3"
   ],
   "email": "Hello@GroundedInTheNorth.com",
-  "description": "coffee shop, brunch, sandwiches, cake and brownies "
+  "description": "Coffee shop, brunch, sandwiches, cake and brownies "
 }
