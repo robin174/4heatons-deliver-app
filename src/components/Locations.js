@@ -22,7 +22,6 @@ export const LocationSearch = () => {
       <InputFilter debounceTime={200} placeholder="What are you looking for" />
     </StyledInputWrap>
   )
-
 }
 
 export const LocationList = () => {
@@ -79,7 +78,6 @@ const StyledInputWrap = styled.div`
     left:1rem;
   }
   input {
-
     display:block;
     width:100%;
     padding:var(--spacing-xs);
