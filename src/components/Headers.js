@@ -26,7 +26,7 @@ export const HeroHeader = ({ search }) => {
     <StyledHeroHeader>
       <Container>
         <h1><img src={logoHero} alt="4 Heatons Deliver Logo"/></h1>;
-        <p>Local restaurants, suppliers, shops &amp; services that deliver contact-free to your door.</p>
+        <p>Local businesses offering delivery and contact-free collection or unique services to The Heatons.</p>
         <p>Search for what you'd like delivered e.g. bread, coffee, hand sanitiser, beer, prescriptions, yeast, toilet paper:</p>
         <LocationSearch />
       </Container>
