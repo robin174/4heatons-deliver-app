@@ -1,0 +1,24 @@
+{
+  "description": "The Tiniest, Contemporary Card & Gift Boutique. Balloons for events & celebrations.",
+  "name": "The Littlest Card Shop",
+  "address": "9 Tatton Rd South, SK4 4LU",
+  "tags": [
+    "cards",
+    "gifts",
+    "card shop",
+    "boutique",
+    "balloons",
+    "celebrations"
+  ],
+  "website": "https://www.instagram.com/thelittlestcardshop.est19/",
+  "deliveryHours": [
+    "Monday 11-3",
+    "Tuesday 11-3",
+    "Wednesday 11-3",
+    "Thursday 11-3",
+    "Friday 11-3",
+    "Saturday 10-3"
+  ],
+  "safetyTips": "Contact free delivery ",
+  "cover": "https://res.cloudinary.com/dai8hrqlj/image/upload/c_limit,f_auto,q_80,w_500/v1594415417/Screenshot_2020-07-10_at_22.07.54_zi1hoy.png"
+}

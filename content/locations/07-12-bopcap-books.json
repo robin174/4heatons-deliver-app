@@ -1,0 +1,16 @@
+{
+  "name": "Bopcap Books",
+  "description": "Secondhand books, specialising in cult fiction, visual arts, music, photography, cultural history/theory. We’re online and in store",
+  "address": "Antiques Village (first floor) Old Town Hall 965 Stockport Road Levenshulme Manchester M19 3NP",
+  "website": "https://bopcapbooks.co.uk/",
+  "tags": [
+    "books",
+    "book shop",
+    "second hand",
+    "reclaimed",
+    "music",
+    "vintage"
+  ],
+  "cover": "https://res.cloudinary.com/dai8hrqlj/image/upload/c_limit,f_auto,q_80,w_500/v1594573409/Screenshot_2020-07-12_at_18.02.23_ip3qhm.png",
+  "safetyTips": "Contact free delivery"
+}

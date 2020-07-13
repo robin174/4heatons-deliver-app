@@ -1,0 +1,16 @@
+{
+  "name": "Cake Loves Cake",
+  "description": "We Make Sweet and Savoury Treats For All Occasions and Dietary Requirements.",
+  "tags": [
+    "cakes",
+    "dessert",
+    "vegan",
+    "dairy free",
+    "gluten free",
+    "Birthday"
+  ],
+  "address": "Manchester",
+  "website": "https://www.instagram.com/cakelovescakes/",
+  "safetyTips": "Contact free delivery",
+  "cover": "https://res.cloudinary.com/dai8hrqlj/image/upload/c_limit,f_auto,q_80,w_500/v1594571791/Screenshot_2020-07-12_at_17.35.49_vd0ra5.png"
+}
