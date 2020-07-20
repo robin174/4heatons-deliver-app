@@ -1,0 +1,14 @@
+{
+  "name": "Konoba",
+  "description": "Organic Pasta - made fresh daily Using seasonal & local produce 🌾",
+  "tags": [
+    "pasta",
+    "italian",
+    "organic "
+  ],
+  "email": "hello@konoba.co.uk",
+  "address": "Manchester",
+  "website": "https://konoba.co.uk/shop/",
+  "safetyTips": "Contact free delivery",
+  "cover": "https://res.cloudinary.com/dai8hrqlj/image/upload/c_limit,f_auto,q_80,w_500/v1595269402/Screenshot_2020-07-20_at_19.23.07_p6cqxr.png"
+}
