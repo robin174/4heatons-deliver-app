@@ -1,0 +1,15 @@
+{
+  "name": "The Easy Fish Co",
+  "description": "A top quality fishmonger, also boasting a fully licensed fish restaurant, and delivery service. ",
+  "tags": [
+    "fishmongers",
+    "fish & chips",
+    "restaurant",
+    "takeaway"
+  ],
+  "address": "117 Heaton Moor Road Heaton Moor Cheshire SK4 4HY",
+  "website": "https://theeasyfishco.com/heatonmoor/",
+  "phone": "0161 442 0823",
+  "safetyTips": "Contact free delivery ",
+  "cover": "https://res.cloudinary.com/dai8hrqlj/image/upload/c_limit,f_auto,q_80,w_500/v1598473446/Screenshot_2020-08-26_at_21.23.35_xsqfej.png"
+}
